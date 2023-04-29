@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - A aplicação pergunta, no terminal, um número",
+        "bonus": false
+      }
+    ]
+}
+  
