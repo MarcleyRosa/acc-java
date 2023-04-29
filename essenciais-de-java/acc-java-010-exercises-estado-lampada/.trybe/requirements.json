@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - A aplicação testa se o valor do estado da lâmpada é passado",
+        "bonus": false
+      }
+    ]
+}
+  
