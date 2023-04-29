@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - A aplicação testa se o resultado da soma dos elementos está correta",
+        "bonus": false
+      }
+    ]
+}
+  
