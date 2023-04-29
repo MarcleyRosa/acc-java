@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - A aplicação testa se o fatorial de 18 está correto",
+        "bonus": false
+      }
+    ]
+}
+  
