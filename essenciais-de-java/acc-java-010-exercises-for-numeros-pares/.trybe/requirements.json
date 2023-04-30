@@ -1,0 +1,8 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Testar a impressão dos números de 4 a 20",
+      "bonus": false
+    }
+  ]
+}
