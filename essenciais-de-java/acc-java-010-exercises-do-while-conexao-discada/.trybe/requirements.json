@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Testando a conexão discada à internet com três tentativas",
+        "bonus": false
+      }
+    ]
+}
+  
