@@ -1,0 +1,24 @@
+{
+  "requirements": [
+    {
+      "description": "5 - A aplicação pergunta, no terminal, nome e idade e retorna a idade em dias",
+      "bonus": false
+    },
+    {
+      "description": "1 - Escreva uma classe com o nome Pessoa",
+      "bonus": false
+    },
+    {
+      "description": "2 - Escreva um método que calcule a idade de Pessoa em dias",
+      "bonus": false
+    },
+    {
+      "description": "3 - Faça com que o cálculo da idade retorne um valor do tipo inteiro",
+      "bonus": false
+    },
+    {
+      "description": "4 - Faça com que o programa retorne a saída esperada",
+      "bonus": false
+    }
+  ]
+}
