@@ -1,0 +1,24 @@
+{
+    "requirements": [
+        {
+            "description": "1 - Faça com que, no terminal, seja perguntado o nome e as notas da pessoa",
+            "bonus": false
+        },
+        {
+            "description": "2 - Escreva uma classe com o nome Nota",
+            "bonus": false
+        },
+        {
+            "description": "3 - Escreva um método que calcule a média anual da pessoa",
+            "bonus": false
+        },
+        {
+            "description": "4 - Faça com que o cálculo da média retorne um valor do tipo Double",
+            "bonus": false
+        },
+        {
+            "description": "5 - Faça com que o programa retorne a saída esperada",
+            "bonus": false
+        }
+    ]
+}
