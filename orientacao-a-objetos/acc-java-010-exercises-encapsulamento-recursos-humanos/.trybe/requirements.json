@@ -1,0 +1,36 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Crie um construtor para a PessoaFuncionaria que receba o nome, CPF, endereço e salário.",
+      "bonus": false
+    },
+    {
+      "description": "2 - Crie um método getter para o atributo nomeCompleto de PessoaFuncionaria.",
+      "bonus": false
+    },
+    {
+      "description": "3 - Crie um método setter para o atributo nomeCompleto de PessoaFuncionaria.",
+      "bonus": false
+    },
+    {
+      "description": "4 - Crie um método getter para o atributo cpf de PessoaFuncionaria.",
+      "bonus": false
+    },
+    {
+      "description": "5 - Crie um método getter para o atributo endereco de PessoaFuncionaria.",
+      "bonus": false
+    },
+    {
+      "description": "6 - Crie um método setter para o atributo endereco de PessoaFuncionaria.",
+      "bonus": false
+    },
+    {
+      "description": "7 - Crie um método getter para o atributo salario de PessoaFuncionaria.",
+      "bonus": false
+    },
+    {
+      "description": "8 - Crie um método setter para o atributo salario de PessoaFuncionaria.",
+      "bonus": false
+    }
+  ]
+}
