@@ -1,0 +1,45 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Valida se usuário executa regra",
+        "bonus": false
+      },
+      {
+        "description": "2 - Valida se usuário é sub-classe de pessoa",
+        "bonus": false
+      },
+      {
+        "description": "3 - Valida se usuário executa regra com nome nulo",
+        "bonus": false
+      },
+      {
+        "description": "4 - Valida se usuário executa regra com sobrenome nulo",
+        "bonus": false
+      },
+      {
+        "description": "5 - Valida se usuário executa regra com nome vazio",
+        "bonus": false
+      },
+      {
+        "description": "6 - Valida se usuário executa regra com sobrenome vazio",
+        "bonus": false
+      },
+      {
+        "description": "7 - Valida se método implementa na sub-classe",
+        "bonus": false
+      },
+      {
+        "description": "8 - Valida se método implementado tem nome correto",
+        "bonus": false
+      },
+      {
+        "description": "9 - Valida se atributos estao declarados",
+        "bonus": false
+      },
+      {
+        "description": "10 - Valida se atributos declarados tem nomes corretos",
+        "bonus": false
+      }
+    ]
+}
+  
