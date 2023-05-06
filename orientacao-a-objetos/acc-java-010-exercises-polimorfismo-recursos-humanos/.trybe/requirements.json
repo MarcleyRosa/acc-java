@@ -1,0 +1,13 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Calcular sálario líquido da pessoa física",
+        "bonus": false
+      },
+      {
+        "description": "2 - Calcular sálario líquido da pessoa jurídica",
+        "bonus": false
+      }
+    ]
+}
+  
