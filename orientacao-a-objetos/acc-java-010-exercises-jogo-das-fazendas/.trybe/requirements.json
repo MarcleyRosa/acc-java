@@ -1,0 +1,52 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Verifica se Farm é uma interface.",
+        "bonus": false
+      },
+      {
+        "description": "2 - Verifica se classe Polygon é abstrato.",
+        "bonus": false
+      },
+      {
+        "description": "3 - Verifica se atributos da classe Circle são estáticos.",
+        "bonus": false
+      },
+      {
+        "description": "4 - Verifica se área do Square é calculada corretamente.",
+        "bonus": false
+      },
+      {
+        "description": "5 - Verifica se área do Square de lado zero é calculada corretamente.",
+        "bonus": false
+      },
+      {
+        "description": "6 - Verifica se área do Triangle é calculada corretamente.",
+        "bonus": false
+      },
+      {
+        "description": "7 - Verifica se área do Triangle de um lado zero é calculada corretamente.",
+        "bonus": false
+      },
+      {
+        "description": "8 - Verifica se área do Rectangle é calculada corretamente.",
+        "bonus": false
+      },
+      {
+        "description": "9 - Verifica se área do Rectangle de um lado zero é calculada corretamente.",
+        "bonus": false
+      },
+      {
+        "description": "10 - Verifica se área do Circle é calculada corretamente.",
+        "bonus": false
+      },
+      {
+        "description": "11 - Verifica se área do Circle de raio zero é calculada corretamente.",
+        "bonus": false
+      },
+      {
+        "description": "12 - Simula um jogo e verifica se o ganhador está correto.",
+        "bonus": false
+      }
+    ]
+}
