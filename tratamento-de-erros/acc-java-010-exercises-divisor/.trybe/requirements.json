@@ -1,0 +1,13 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Retornar zero quando houver divisão por 0",
+        "bonus": false
+      },
+      {
+        "description": "2 - Retornar o valor correto para a divisão de 25 por 5",
+        "bonus": false
+      }
+    ]
+}
+  
