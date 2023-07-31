@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Retorna string correta quando arquivo não existe",
+        "bonus": false
+      }
+    ]
+}
+  
