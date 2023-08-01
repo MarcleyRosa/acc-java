@@ -1,0 +1,13 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Em caso de sucesso, retornar o nome correto do método getNome()",
+        "bonus": false
+      },
+      {
+        "description": "2 - Em caso de insucesso, retornar a String 'Nome nulo'",
+        "bonus": false
+      }
+    ]
+}
+  
