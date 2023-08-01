@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Lançar exceção quando pessoa for menor de idade",
+        "bonus": false
+      }
+    ]
+}
+  
