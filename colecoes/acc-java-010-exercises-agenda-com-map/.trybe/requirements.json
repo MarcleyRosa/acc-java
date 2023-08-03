@@ -1,0 +1,24 @@
+{
+  "requirements": [
+    {
+      "description": "Inicial",
+      "bonus": false
+    },
+    {
+      "description": "Inclusao",
+      "bonus": false
+    },
+    {
+      "description": "Repeticao",
+      "bonus": false
+    },
+    {
+      "description": "Isolamento",
+      "bonus": false
+    },
+    {
+      "description": "Atualizacao",
+      "bonus": false
+    }
+  ]
+} 
