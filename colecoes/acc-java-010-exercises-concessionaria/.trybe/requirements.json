@@ -1,0 +1,17 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Contar corretamente a quantidade de veículos diferentes em um Stream",
+        "bonus": false
+      },
+      {
+        "description": "2 - Retornar Stream de Strings a partir de um Stream de objetos Veículo",
+        "bonus": false
+      },
+      {
+        "description": "3 - Obetr uma lista de veículos a partir de um Stream de veículos",
+        "bonus": false
+      }
+    ]
+}
+  
