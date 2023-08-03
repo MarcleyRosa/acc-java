@@ -1,0 +1,17 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Criação do item",
+        "bonus": false
+      },
+      {
+        "description": "2 - Criação do array",
+        "bonus": false
+      },
+      {
+        "description": "3 - Criação da lista",
+        "bonus": false
+      }
+    ]
+}
+  
