@@ -1,0 +1,40 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Faça um programa que retorne o nome de uma pessoa",
+        "bonus": false
+      },
+      {
+        "description": "2 - Escreva um método que valide um CPF",
+        "bonus": false
+      },
+      {
+        "description": "3 - Faça um programa que retorne um CPF inválido",
+        "bonus": false
+      },
+      {
+        "description":"4 - Faça um programa que retorne o nome de do cliente",
+        "bonus":false
+      },
+      {
+        "description":"5 - Escreva um método que retorne o CPF válido do cliente",
+        "bonus":false
+      },
+      {
+        "description":"6 - Faça um programa que retorne o CPF inválido do cliente",
+        "bonus":false
+      },
+      {
+        "description":"7 - Escreva um método para efetuar um depósito",
+        "bonus":false
+      },
+      {
+        "description":"8 - Escreva um método para sacar um valor",
+        "bonus":false
+      },
+      {
+        "description":"9 - Faça um programa para ver o saldo na conta",
+        "bonus":false
+      }
+    ]
+}
