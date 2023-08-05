@@ -1,0 +1,40 @@
+{
+  "requirements": [
+    {
+      "description": "1 - Ao setar `3000` como salário bruto, o método `calcularSlarioLiquido` deve retornar `2400`",
+      "bonus": false
+    },
+    {
+      "description": "2 - Ao setar `7430` como salário bruto, o método `calcularSlarioLiquido` deve retornar `5944`",
+      "bonus": false
+    },
+    {
+      "description": "3 - Com salário bruto de `3000`, o método `calcularValorBrutoRecebidoAnual` ao receber `5` como parâmetro, deve retornar `180000`",
+      "bonus": false
+    },
+    {
+      "description": "4 - Com salário bruto de `7430`, o método `calcularValorBrutoRecebidoAnual` ao receber `5` como parâmetro, deve retornar `445800`",
+      "bonus": false
+    },
+    {
+      "description": "5 - Com salário bruto de `3000`, o método `calcularValorLiquidoRecebidoAnual` ao receber `5` como parâmetro, deve retornar `144000`",
+      "bonus": false
+    },
+    {
+      "description": "6 - Com salário bruto de `7430`, o método `calcularValorLiquidoRecebidoAnual` ao receber `5` como parâmetro, deve retornar `356640`",
+      "bonus": false
+    },
+    {
+      "description": "7 - Com salário bruto de `3000`, o método `calcularValorImpostoAnual` ao receber `5` como parâmetro, deve retornar `36000`",
+      "bonus": false
+    },
+    {
+      "description": "8 - Com salário bruto de `7430`, o método `calcularValorImpostoAnual` ao receber `5` como parâmetro, deve retornar `89160`",
+      "bonus": false
+    },
+    {
+      "description": "9 - A cobertura de teste deve ser maior que 90%",
+      "bonus": false
+    }
+  ]
+}
