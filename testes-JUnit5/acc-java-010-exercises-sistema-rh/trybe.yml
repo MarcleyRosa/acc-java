@@ -1,0 +1,7 @@
+ignore_files:
+  - pom.xml
+  - src/test/java/com/trybe/acc/java/sistemarh/CoverageValidationTest.java
+  - src/test/java/com/trybe/acc/java/sistemarh/PessoaColaboradoraValidationTest.java
+  - src/test/java/com/trybe/acc/java/sistemarh/XmlParser.java
+  - mvnw
+  - .mvn/
